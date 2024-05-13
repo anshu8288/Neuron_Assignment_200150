@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Neuron_Assignment_200150/static/css/main.d6ece949.css",
+    "main.js": "/Neuron_Assignment_200150/static/js/main.173ba646.js",
+    "static/js/453.ed3810f9.chunk.js": "/Neuron_Assignment_200150/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Neuron_Assignment_200150/index.html",
+    "main.d6ece949.css.map": "/Neuron_Assignment_200150/static/css/main.d6ece949.css.map",
+    "main.173ba646.js.map": "/Neuron_Assignment_200150/static/js/main.173ba646.js.map",
+    "453.ed3810f9.chunk.js.map": "/Neuron_Assignment_200150/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ece949.css",
+    "static/js/main.173ba646.js"
+  ]
+}
